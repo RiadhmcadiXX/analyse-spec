@@ -1,0 +1,64 @@
+﻿import { Guid } from "../guid";
+
+export class Student {
+    id?: Guid;
+    cegep?: string;
+    firstLogOn?: Date;
+    submitedTime?: Date;
+    cp?: string;
+    birthday?: Date;
+    gender?: string;
+    admEmail?: string;
+    collEmail?: string;
+    status?: string;
+    othStuQc?: string;
+    postalCode?: string;
+    desDate?: Date;
+    mgs?: number;
+    numEstabSec?: number;
+    admTurn?: number;
+    choice?: string;
+    cohort?: string;
+    population?: string;
+    collSess01?: number;
+    collSess02?: number;
+    collSess03?: number;
+    collSess04?: number;
+    progSess01?: string;
+    progSess02?: string;
+    progSess03?: string;
+    progSess04?: string;
+    nbFollow01?: number;
+    nbFollow02?: number;
+    nbFollow03?: number;
+    nbFollow04?: number;
+    nbSuccess01?: number;
+    nbSuccess02?: number;
+    nbSuccess03?: number;
+    nbSuccess04?: number;
+    progDec?: string;
+    yearDec?: Date;
+    firstAndLastName?: string;
+    identification?: number;
+    genmels?: number;
+    sec5Fra?: number;
+    firstName?: string;
+    lastName?: string;
+    targetYear?: number;
+    targetSemester?: number;
+    freqType?: string;
+    presType?: string;
+    collSemTarget?: number;
+    progSemTarget?: string;
+    reinscription?: boolean;
+    successContract?: boolean;
+    teachingServices?: number;
+    eufSuccess01?: number;
+    eufSuccess02?: number;
+    eufSuccess03?: number;
+    eufSuccess04?: number;
+    sec5Eng?: number;
+    consSuccess?: boolean;
+}
+
+

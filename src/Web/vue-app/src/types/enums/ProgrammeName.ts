@@ -1,0 +1,20 @@
+﻿export enum ProgrammeName {
+    SciencesDeLaNature = "Sciences de la nature",
+    BaccalaureatInternational = "Baccalauréat International",
+    SciencesHumaines = "Sciences humaines",
+    ArtsLettresCommunication = "Arts, lettres et communication",
+    HygieneDentaire = "Techniques d'hygiène dentaire",
+    Physiotherapie = "Techniques de physiothérapie",
+    OrthesesVisuelles = "Techniques d’orthèses visuelles",
+    SoinsInfirmiers = "Soins infirmiers",
+    ComptabiliteEtGestion = "Techniques de comptabilité et de gestion",
+    GestionDeCommerces = "Gestion de commerces",
+    LogistiqueDuTransport = "Techniques de la logistique du transport",
+    Bureautique = "Techniques de bureautique",
+    Informatique = "Techniques de l'informatique",
+    TechniquesPolicieres = "Techniques policières",
+    InterventionEnDelinquance = "Techniques d'intervention en délinquance",
+    TechniquesJuridiques = "Techniques juridiques",
+    Documentation = "Techniques de la documentation",
+    DesignDinterieur = "Techniques de design d'intérieur"
+}
